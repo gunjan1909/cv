@@ -1,0 +1,24 @@
+body {
+  background-color: #aee1e1;
+  font-family: "Bookman Old Style";
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #02475e;
+  border-width: 4px;
+  width: 20%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #02475e;
+}
+
+img {
+  border-radius: 100%
+}
+
+.circular:hover {
+  border-radius: 0
+}
